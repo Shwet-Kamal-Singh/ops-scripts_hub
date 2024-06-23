@@ -58,4 +58,6 @@ sudo ./apache_install.sh
 * **Sudo Privileges**:
   * The script requires sudo privileges to install packages, modify firewall rules, and manage services. Make sure to run the script with `sudo` or as a user with the necessary permissions.
 
+
+
 This script simplifies the process of installing and configuring the Apache web server on an Ubuntu system, making it easy to set up a web server with minimal manual intervention.
