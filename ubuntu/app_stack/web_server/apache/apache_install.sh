@@ -18,4 +18,6 @@ sudo systemctl enable apache2
 # Restart Apache service
 sudo systemctl restart apache2
 
+
+
 echo "Apache Web Server installation and configuration completed."
