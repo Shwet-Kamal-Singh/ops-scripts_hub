@@ -20,21 +20,21 @@ This script performs a non-interactive installation of PostgreSQL on any Ubuntu 
 
 * **Download the Script**
 ```bash
-   wget https://github.com/Shwet-Kamal-Singh/ops-scripts_hub/ubuntu/app_stack/database/postgresql/Postgresql_install.sh
+wget https://github.com/Shwet-Kamal-Singh/ops-scripts_hub/ubuntu/app_stack/database/postgresql/Postgresql_install.sh
 ```
 
 
 * **Make the Script Executable**
 
-    ```bash
-    chmod +x Postgresql_install.sh
-    ```
+```bash
+chmod +x Postgresql_install.sh
+```
 
 * **Run the Script**
 
-    ```bash
-    sudo ./Postgresql_install.sh
-    ```
+```bash
+sudo ./Postgresql_install.sh
+```
 
 ## Explanation of the Script
 
